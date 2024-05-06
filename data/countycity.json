@@ -1,0 +1,460 @@
+[
+    {
+        "id":1,
+        "name":"United Kingdom(UK)",
+        "value":"United Kingdom",
+        "cities":[
+            {
+                "id":1,
+                "name":"Aberdeenshire",
+                "value":"Aberdeenshire"
+            },
+            {
+                "id":2,
+                "name":"Angus",
+                "value":"Angus"
+            },
+            {
+                "id":3,
+                "name":"Argyll and Bute",
+                "value":"Argyll and Bute"
+            },
+            {
+                "id":4,
+                "name":"Ayrshire and Arran",
+                "value":"Ayrshire and Arran"
+            },
+            {
+                "id":5,
+                "name":"Bedfordshire",
+                "value":"Bedfordshire"
+            },
+            {
+                "id":6,
+                "name":"Banffshire",
+                "value":"Banffshire"
+            },
+            {
+                "id":7,
+                "name":"Berkshire",
+                "value":"Berkshire"
+            },
+            {
+                "id":8,
+                "name":"Berwickshire",
+                "value":"Berwickshire"
+            },
+            {
+                "id":9,
+                "name":"Bristol",
+                "value":"Bristol"
+            },
+            {
+                "id":10,
+                "name":"Buckinghamshire",
+                "value":"Buckinghamshire"
+            },
+            {
+                "id":11,
+                "name":"Caithness",
+                "value":"Caithness"
+            },
+            {
+                "id":12,
+                "name":"Cambridgeshire",
+                "value":"Cambridgeshire"
+            },
+            {
+                "id":13,
+                "name":"Cheshire",
+                "value":"Cheshire"
+            },
+            {
+                "id":14,
+                "name":"City of Aberdeen",
+                "value":"City of Aberdeen"
+            },
+            {
+                "id":15,
+                "name":"City of Dundee",
+                "value":"City of Dundee"
+            },
+            {
+                "id":16,
+                "name":"City of Edinburgh",
+                "value":"City of Edinburgh"
+            },
+            {
+                "id":17,
+                "name":"City of Glasgow",
+                "value":"City of Glasgow"
+            },
+            {
+                "id":18,
+                "name":"Clackmannan",
+                "value":"Clackmannan"
+            },
+            {
+                "id":19,
+                "name":"Clwyd",
+                "value":"Clwyd"
+            },
+            {
+                "id":20,
+                "name":"Cornwall",
+                "value":"Cornwall"
+            },
+            {
+                "id":21,
+                "name":"Cumbria",
+                "value":"Cumbria"
+            },
+            {
+                "id":22,
+                "name":"Derbyshire",
+                "value":"Derbyshire"
+            },
+            {
+                "id":23,
+                "name":"Devon",
+                "value":"Devon"
+            },
+            {
+                "id":24,
+                "name":"Dorset",
+                "value":"Dorset"
+            },
+            {
+                "id":25,
+                "name":"Dumfries",
+                "value":"Dumfries"
+            },
+            {
+                "id":26,
+                "name":"Dunbartonshire",
+                "value":"Dunbartonshire"
+            },
+            {
+                "id":27,
+                "name":"Durham",
+                "value":"Durham"
+            },
+            {
+                "id":28,
+                "name":"Dyfed",
+                "value":"Dyfed"
+            },
+            {
+                "id":29,
+                "name":"East Lothian",
+                "value":"East Lothian"
+            },
+            {
+                "id":30,
+                "name":"East Riding of Yorkshire",
+                "value":"East Riding of Yorkshire"
+            },
+            {
+                "id":31,
+                "name":"East Sussex",
+                "value":"East Sussex"
+            },
+            {
+                "id":32,
+                "name":"Essex",
+                "value":"Essex"
+            },
+            {
+                "id":33,
+                "name":"Fife",
+                "value":"Fife"
+            },
+            {
+                "id":34,
+                "name":"Gloucestershire",
+                "value":"Gloucestershire"
+            },
+            {
+                "id":35,
+                "name":"Greater London",
+                "value":"Greater London"
+            },
+            {
+                "id":36,
+                "name":"Greater Manchester",
+                "value":"Greater Manchester"
+            },
+            {
+                "id":37,
+                "name":"Gwent",
+                "value":"Gwent"
+            },
+            {
+                "id":38,
+                "name":"Gwynedd",
+                "value":"Gwynedd"
+            },
+            {
+                "id":39,
+                "name":"Hampshire",
+                "value":"Hampshire"
+            },
+            {
+                "id":40,
+                "name":"Herefordshire",
+                "value":"Herefordshire"
+            },
+            {
+                "id":41,
+                "name":"Hertfordshire",
+                "value":"Hertfordshire"
+            },
+            {
+                "id":42,
+                "name":"Inverness",
+                "value":"Inverness"
+            },
+            {
+                "id":43,
+                "name":"Isle of Wight",
+                "value":"Isle of Wight"
+            },
+            {
+                "id":44,
+                "name":"Kent",
+                "value":"Kent"
+            },
+            {
+                "id":45,
+                "name":"Kincardineshire",
+                "value":"Kincardineshire"
+            },
+            {
+                "id":46,
+                "name":"Lanarkshire",
+                "value":"Lanarkshire"
+            },
+            {
+                "id":47,
+                "name":"Lancashire",
+                "value":"Lancashire"
+            },
+            {
+                "id":48,
+                "name":"Leicestershire",
+                "value":"Leicestershire"
+            },
+            {
+                "id":49,
+                "name":"Lincolnshire",
+                "value":"Lincolnshire"
+            },
+            {
+                "id":50,
+                "name":"Merseyside",
+                "value":"Merseyside"
+            },
+            {
+                "id":51,
+                "name":"Mid Glamorgan",
+                "value":"Mid Glamorgan"
+            },
+            {
+                "id":52,
+                "name":"Midlothian",
+                "value":"Midlothian"
+            },
+            {
+                "id":53,
+                "name":"Moray",
+                "value":"Moray"
+            },
+            {
+                "id":54,
+                "name":"Nairn",
+                "value":"Nairn"
+            },
+            {
+                "id":55,
+                "name":"Norfolk",
+                "value":"Norfolk"
+            },
+            {
+                "id":56,
+                "name":"North Yorkshire",
+                "value":"North Yorkshire"
+            },
+            {
+                "id":57,
+                "name":"Northamptonshire",
+                "value":"Northamptonshire"
+            },
+            {
+                "id":58,
+                "name":"Northumberland",
+                "value":"Northumberland"
+            },
+            {
+                "id":59,
+                "name":"Nottinghamshire",
+                "value":"Nottinghamshire"
+            },
+            {
+                "id":60,
+                "name":"Orkney",
+                "value":"Orkney"
+            },
+            {
+                "id":61,
+                "name":"Oxfordshire",
+                "value":"Oxfordshire"
+            },
+            {
+                "id":62,
+                "name":"Perth and Kinross",
+                "value":"Perth and Kinross"
+            },
+            {
+                "id":63,
+                "name":"Powys",
+                "value":"Powys"
+            },
+            {
+                "id":64,
+                "name":"Renfrewshire",
+                "value":"Renfrewshire"
+            },
+            {
+                "id":65,
+                "name":"Ross and Cromarty",
+                "value":"Ross and Cromarty"
+            },
+            {
+                "id":66,
+                "name":"Roxburgh, Ettrick and Lauderdale",
+                "value":"Roxburgh, Ettrick and Lauderdale"
+            },
+            {
+                "id":67,
+                "name":"Rutland",
+                "value":"Rutland"
+            },
+            {
+                "id":68,
+                "name":"Shetland",
+                "value":"Shetland"
+            },
+            {
+                "id":69,
+                "name":"Shropshire",
+                "value":"Shropshire"
+            },
+            {
+                "id":70,
+                "name":"Somerset",
+                "value":"Somerset"
+            },
+            {
+                "id":71,
+                "name":"South Glamorgan",
+                "value":"South Glamorgan"
+            },
+            {
+                "id":72,
+                "name":"South Yorkshire",
+                "value":"South Yorkshire"
+            },
+            {
+                "id":73,
+                "name":"Staffordshire",
+                "value":"Staffordshire"
+            },
+            {
+                "id":74,
+                "name":"Stirling and Falkirk",
+                "value":"Stirling and Falkirk"
+            },
+            {
+                "id":75,
+                "name":"Suffolk",
+                "value":"Suffolk"
+            },
+            {
+                "id":76,
+                "name":"Surrey",
+                "value":"Surrey"
+            },
+            {
+                "id":77,
+                "name":"Sutherland",
+                "value":"Sutherland"
+            },
+            {
+                "id":78,
+                "name":"The Stewartry of Kirkcudbright",
+                "value":"The Stewartry of Kirkcudbright"
+            },
+            {
+                "id":79,
+                "name":"Tweeddale",
+                "value":"Tweeddale"
+            },
+            {
+                "id":80,
+                "name":"Tyne and Wear",
+                "value":"Tyne and Wear"
+            },
+            {
+                "id":81,
+                "name":"Warwickshire",
+                "value":"Warwickshire"
+            },
+            {
+                "id":82,
+                "name":"West Glamorgan",
+                "value":"West Glamorgan"
+            },
+            {
+                "id":83,
+                "name":"West Lothian",
+                "value":"West Lothian"
+            },
+            {
+                "id":84,
+                "name":"West Midlands",
+                "value":"West Midlands"
+            },
+            {
+                "id":85,
+                "name":"West Sussex",
+                "value":"West Sussex"
+            },
+            {
+                "id":86,
+                "name":"West Yorkshire",
+                "value":"West Yorkshire"
+            },
+            {
+                "id":87,
+                "name":"Western Isles",
+                "value":"Western Isles"
+            },
+            {
+                "id":88,
+                "name":"Wigtown",
+                "value":"Wigtown"
+            },
+            {
+                "id":89,
+                "name":"Wiltshire",
+                "value":"Wiltshire"
+            },
+            {
+                "id":90,
+                "name":"Worcestershire",
+                "value":"Worcestershire"
+            }
+
+        ]
+    }
+]

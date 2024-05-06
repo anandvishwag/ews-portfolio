@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'ews';
+  src:  url('fonts/ews.eot?ymcas2');
+  src:  url('fonts/ews.eot?ymcas2#iefix') format('embedded-opentype'),
+    url('fonts/ews.ttf?ymcas2') format('truetype'),
+    url('fonts/ews.woff?ymcas2') format('woff'),
+    url('fonts/ews.svg?ymcas2#ews') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="i-"], [class*=" i-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ews' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.i-videos:before {
+  content: "\e900";
+}
+.i-desdign:before {
+  content: "\e901";
+}
+.i-devlopment:before {
+  content: "\e902";
+}
+.i-envelope:before {
+  content: "\e903";
+}
+.i-map-pin:before {
+  content: "\e904";
+}
+.i-ui:before {
+  content: "\e905";
+}
+.i-angle-down-f:before {
+  content: "\e906";
+}
+.i-angle-left:before {
+  content: "\e907";
+}
+.i-angle-left-f:before {
+  content: "\e908";
+}
+.i-angle-right:before {
+  content: "\e909";
+}
+.i-angle-right-f:before {
+  content: "\e90a";
+}
+.i-angle-up:before {
+  content: "\e90b";
+}
+.i-angle-up-f:before {
+  content: "\e90c";
+}
+.i-call:before {
+  content: "\e90d";
+}
+.i-category:before {
+  content: "\e90e";
+}
+.i-edit:before {
+  content: "\e90f";
+}
+.i-facebook:before {
+  content: "\e910";
+}
+.i-heart:before {
+  content: "\e911";
+}
+.i-instagram:before {
+  content: "\e912";
+}
+.i-linkedin:before {
+  content: "\e913";
+}
+.i-minus:before {
+  content: "\e914";
+}
+.i-plus:before {
+  content: "\e915";
+}
+.i-searc:before {
+  content: "\e916";
+}
+.i-send:before {
+  content: "\e917";
+}
+.i-tag:before {
+  content: "\e918";
+}
+.i-twitter:before {
+  content: "\e919";
+}
+.i-user:before {
+  content: "\e91a";
+}
+.i-whatsapp:before {
+  content: "\e91b";
+}
+.i-youtube:before {
+  content: "\e91c";
+}
+.i-angle-down:before {
+  content: "\e91d";
+}

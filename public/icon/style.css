@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'ews';
+  src:  url('fonts/ews.eot?r4jrz2');
+  src:  url('fonts/ews.eot?r4jrz2#iefix') format('embedded-opentype'),
+    url('fonts/ews.ttf?r4jrz2') format('truetype'),
+    url('fonts/ews.woff?r4jrz2') format('woff'),
+    url('fonts/ews.svg?r4jrz2#ews') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ews"], [class*=" ews"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ews' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ewse_whatsapp:before {
+  content: "\e90f";
+}
+.ewse_behance:before {
+  content: "\e900";
+}
+.ewse_call:before {
+  content: "\e901";
+}
+.ewse_digitalmar:before {
+  content: "\e902";
+}
+.ewse_edit:before {
+  content: "\e903";
+}
+.ewse_email:before {
+  content: "\e904";
+}
+.ewse_facebook:before {
+  content: "\e905";
+}
+.ewse_gaphicsdes:before {
+  content: "\e906";
+}
+.ewse_getquote:before {
+  content: "\e907";
+}
+.ewse_instagram:before {
+  content: "\e908";
+}
+.ewse_linkedin:before {
+  content: "\e909";
+}
+.ewse_send:before {
+  content: "\e90a";
+}
+.ewse_twitter:before {
+  content: "\e90b";
+}
+.ewse_user:before {
+  content: "\e90c";
+}
+.ewse_webdev:before {
+  content: "\e90d";
+}
+.ewse_youtube:before {
+  content: "\e90e";
+}
+.ewshome:before {
+  content: "\e910";
+}
+.ewspencil:before {
+  content: "\e911";
+}
+.ewsimage:before {
+  content: "\e912";
+}
+.ewsbooks:before {
+  content: "\e920";
+}
+.ewscopy:before {
+  content: "\e92c";
+}
+.ewslocation:before {
+  content: "\e947";
+}
+.ewslocation2:before {
+  content: "\e948";
+}
+.ewsspinner2:before {
+  content: "\e97b";
+}
+.ewssearch:before {
+  content: "\e986";
+}
+.ewsstar-empty:before {
+  content: "\e9d7";
+}
+.ewsstar-half:before {
+  content: "\e9d8";
+}
+.ewsstar-full:before {
+  content: "\e9d9";
+}
+.ewscheckmark:before {
+  content: "\ea10";
+}
+.ewssort-numeric-asc:before {
+  content: "\ea4a";
+}
+.ewssort-numberic-desc:before {
+  content: "\ea4b";
+}
+.ewssort-amount-asc:before {
+  content: "\ea4c";
+}
+.ewssort-amount-desc:before {
+  content: "\ea4d";
+}
+.ewsgoogle:before {
+  content: "\ea88";
+}
