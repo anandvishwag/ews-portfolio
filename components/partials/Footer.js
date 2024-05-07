@@ -36,14 +36,23 @@ const Footer = () => {
                   </div>
               </div>
             </div>
-            <div className="whatsappLink">
+            <div className="mb-bottom">
+            <div className="linkActions">
+                <a href="tel:8574760729">
+                    <span className="i-call cl-grey"></span>
+                    <span className="cl-grey">Call Now</span>
+                </a>
+            </div>
+            <div className="linkActions">
                 <Link href={'https://wa.link/n2xcqc'}>
                 <a target="_blank">
-                    <span className="i-whatsapp"></span>
+                    <span className="i-whatsapp cl-green"></span>
+                    <span className="cl-green">Whatsapp</span>
                 </a>
                 </Link>
-               
             </div>
+            </div>
+           
         </footer>
     )
 }

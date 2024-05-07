@@ -20,7 +20,9 @@ const Home = ({data}) => {
     return (
         <>
          <Head>
-        <title>My page title</title>
+         <title>Explosionweb Solutions</title>
+         <meta name="description" content="Explosionweb Solutions is a multifaceted young organization. We specialize in creating top-notch web solutions for your business. We are a team of dedicated and creative professionals continuously working towards making your business realize its true online potential. We have a bold and promising approach to digital marketing, branding, App development and many more online service"/>
+         
       </Head>
       <div>
             <CategoryTab data={data}/>

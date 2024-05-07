@@ -53,15 +53,14 @@ const CategoryTab = ({data}) => {
                             portfolio && portfolio.portfolios.length > 0 ?  <LightGallery speed={500}>
                             {
                                 portfolio.portfolios.map((item)=>{
-                                    return  <a className="col-2 col-sm-4 col-xs-6" data-src={item.big_image} key={item.id}>
-                                    {/* <img src={item.thumbnail} alt={item.title} /> */}
+                                    return  <div className="col-3 col-sm-4 col-xs-6" data-src={item.big_image} key={item.id}>
                                     <Image
       src={item.thumbnail}
       alt={item.title}
-      width={222}
-      height={177}
+      width={270}
+      height={232}
     />
-                                </a>
+                                </div>
                                 })
                             }
                         </LightGallery> : <div className='data-error'>
